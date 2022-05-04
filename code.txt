@@ -1,0 +1,5 @@
+var a 24
+out a
+str b CodeRepublic
+out b
+end
