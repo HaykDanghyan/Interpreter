@@ -1,0 +1,15 @@
+str myStr barev
+var num 13
+var num2 25
+chc num < num2
+out myStr
+var num3 36
+out num3
+str sstr Hayk
+out sstr
+str sss vonces
+out sss
+alg myBool 1
+chc num2 > num
+out myBool
+end
