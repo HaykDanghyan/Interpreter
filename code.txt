@@ -1,0 +1,6 @@
+str myStr barev
+var num 13
+var num2 25
+chc num2 > num
+out myStr
+end
