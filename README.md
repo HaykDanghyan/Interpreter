@@ -1,3 +1,1 @@
-# This is an interpreter which translates the programming language created by myself
-# So the code may be non-professional
-# Special thanks to my teacher Hayk Darbinyan , who gave me a lot of useful and important advises during the code writing process
+
